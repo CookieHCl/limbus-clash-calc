@@ -1,7 +1,7 @@
 {
   "name": "limbus-clash-calc",
   "version": "0.1.0",
-  "homepage": "https://CookieHCl.github.io/limbus-clash-calc",
+  "homepage": "https://cookiehcl.github.io/limbus-clash-calc",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
